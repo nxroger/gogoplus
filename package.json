@@ -1,0 +1,10 @@
+{
+  "name": "gogoplus",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A static React single page that recreates the provided travel inspiration layout.",
+  "scripts": {
+    "start": "node scripts/serve.js"
+  }
+}
